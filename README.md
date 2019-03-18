@@ -1,2 +1,2 @@
 # first
-My first project on github
+welcome to git
